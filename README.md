@@ -21,12 +21,12 @@ TL;dr, This project automates the process of blocking and deleting old conversat
 - Firefox WebDriver (geckodriver)
 
 1. **Clone the repository:**
-   ```bash
+   ```sh
    git clone https://github.com/mromer99/interpals-user-blocker.git
    cd interpals-user-blocker
    ```
 2. **Install the required Python packages:**
-```bash
+```sh
 pip install selenium
 ```
 
