@@ -76,7 +76,7 @@ Timestamp: 22 days ago, Username: Inactive User
 ```
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT [License](LICENSE).
    
 
 
